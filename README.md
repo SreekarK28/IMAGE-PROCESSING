@@ -4,7 +4,7 @@
 2) Install [VScode](https://code.visualstudio.com/download), follow the installation instruction mentioned in their website.
 3) Install the requirements mentioned in the 'requirements.txt' file , steps to install from packages from a requirements.txt file can be found [here](https://github.com/SreekarK28/Image-Steganography/blob/main/requirements.txt)
 4) without changing the name of any directories, run the hiding text in image steganography.py file
-5. numbered point one
+5. 
    1. press 1 to encode  
    2. press 2 to decode
    3. press 3 to comapare the two new images with original image.
