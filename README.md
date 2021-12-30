@@ -23,3 +23,8 @@
    iii) next it shows the graph of PSNR values for both algorithms, close that graph also to run the remaining code.
    iv)  after closing the both graphs, Comparison.xls will be created in Comparison_result folder which shows the MSE and PSNR values in a table.
    
+ 9)  Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+   
