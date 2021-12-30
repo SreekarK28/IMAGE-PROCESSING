@@ -8,10 +8,10 @@
    *press 2 to decode
    *press 3 to comapare the two new images with original image.
    
-6) *Encoding:
-   i)   After pressing 1, enter the image name with extension which is in Original_image folder.
-   ii)  enter the secret message you want to hide.
-   iii) Encoding is done, images are stored in Encoded_image folder.
+6) Markup : * Encoding:
+            * After pressing 1, enter the image name with extension which is in Original_image folder.
+            *  enter the secret message you want to hide.
+            * Encoding is done, images are stored in Encoded_image folder.
    
 7) *Decoding:
    i)  Press 2 after encoding is done.
