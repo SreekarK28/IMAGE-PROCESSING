@@ -4,27 +4,22 @@
 2) Install [VScode](https://code.visualstudio.com/download), follow the installation instruction mentioned in their website.
 3) Install the requirements mentioned in the 'requirements.txt' file , steps to install from packages from a requirements.txt file can be found [here](https://github.com/SreekarK28/Image-Steganography/blob/main/requirements.txt)
 4) without changing the name of any directories, run the hiding text in image steganography.py file
-5) press 1 to encode
-   press 2 to decode
-   press 3 to comapare the two new images with original image.
+5) *press 1 to encode
+   *press 2 to decode
+   *press 3 to comapare the two new images with original image.
    
-6) Encoding:
+6) *Encoding:
    i)   After pressing 1, enter the image name with extension which is in Original_image folder.
    ii)  enter the secret message you want to hide.
    iii) Encoding is done, images are stored in Encoded_image folder.
    
-7) Decoding:
+7) *Decoding:
    i)  Press 2 after encoding is done.
    ii) The text files which contain secret message for each algorithm are saved in Decoded_output folder. 
   
-8) Comparison:
+8) *Comparison:
    i)  press 3, after decoding is done.
    ii) its shows the graph of MSE values for both algorithms, close the graph to proceed next.
    iii) next it shows the graph of PSNR values for both algorithms, close that graph also to run the remaining code.
    iv)  after closing the both graphs, Comparison.xls will be created in Comparison_result folder which shows the MSE and PSNR values in a table.
-   
- 9)  Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
-   
+
