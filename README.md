@@ -7,7 +7,7 @@
 5. 
    1. press 1 to encode  
    2. press 2 to decode
-   3. press 3 to comapare the two new images with original image.
+   3. press 3 to compare the two new images with original image.
  
    
 6. Encoding:
