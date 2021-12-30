@@ -1,5 +1,5 @@
 # Image Steganography
-# Steps to run the lane line detection code:
+# Steps to run the code:
 Download and install python onto your system or the system you'll use to run the code.The link for downloading python can be found here
 Install Vscode or jupyter notebook in order to acess the ipynb file , follow the installation instruction mentioned in their website(s)
 Install the requirements mentioned in the 'requirements.txt' file , steps to install from packages from a requirements.txt file can be found here
